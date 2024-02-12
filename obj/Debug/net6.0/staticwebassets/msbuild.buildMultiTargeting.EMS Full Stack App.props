@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EMS Full Stack App.props" />
+</Project>
